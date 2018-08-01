@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CoverFlow2.qml</file>
+        <file>IconButtonAnimation.qml</file>
+        <file>RoundButton.qml</file>
+        <file>CoverFlow3.qml</file>
+    </qresource>
+</RCC>
